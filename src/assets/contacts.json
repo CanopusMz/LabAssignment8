@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Suhail",
+        "lastName": "Mazi",
+        "email": "Suhailmazi@gmail.com",
+        "phone": "(530)768-6666",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Amr",
+        "lastName": "Mazi",
+        "email": "amrmazi@gmail.com",
+        "phone": "+966544644244",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Saud",
+        "lastName": "Alshammari",
+        "email": "inv.saud@gmail.com",
+        "phone": "(858)205-7173",
+        "editing": false
+    }
+]
